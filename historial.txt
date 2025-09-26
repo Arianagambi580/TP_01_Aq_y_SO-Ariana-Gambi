@@ -1,0 +1,123 @@
+    1  git--version
+    2  git --version
+    3  git_ init
+    4  git init
+    5  git add .
+    6  git commit -m "Subiendo"
+    7  git config global user.name "Ariana Gambi"
+    8  git config --global user.mail "arianae.gambi@gmail.com"
+    9  git config --global user.name "Ariana Gambi"
+   10  git commit -m "subiendo"
+   11  git commit -m "subiendo"
+   12  git config --global user.mail "arianae.gambi@gmail.com"
+   13  git config --global user.name "Ariana Gambi"
+   14  git config --global --list
+   15  git commit -m "subiendo"
+   16  git clone https://github.com/upszot/UTN-FRA_SO_Vagrant.git
+   17  ls -l
+   18  cat V
+   19  cat Vagrantfile 
+   20  vagrant status
+   21  vagrant --version
+   22  clear
+   23  vagrant up
+   24  vagrant ssh
+   25  ls 
+   26  echo "hola"
+   27  echo "hola" > archivo1.txt
+   28  ls
+   29  cat archivo1.txt
+   30  echo "otra fila" >> archivo1.txt
+   31  cat archivo1.txt
+   32  pwd
+   33  cd C/
+   34  cd ..
+   35  cd ..
+   36  ls
+   37  cd SO
+   38  cd Repogit
+   39  ls
+   40  git clone https://github.com/Arianagambi580/TP-Final.git
+   41  cd TP-Final
+   42  ls
+   43  cat README.md
+   44  echo "Entrega final" >> README.md
+   45  cat README.md
+   46  git config --global user.name "Arianagambi580"
+   47  git config --global user.email "arianae.gambi@gmail.com"
+   48  git add .
+   49  git commit -m "modificación"
+   50  git push
+   51  git push
+   52  git pull
+   53  cd c/SO/Repogit/UTN-FRA_SO_VAGRANT/1 equipo
+   54  c/SO/Reapogit/UTN-FRA_SO_VAGRANT/VagrantFiles/1_equipo
+   55  vagrant ssh
+   56  ls -ls
+   57  vagrant up
+   58  cd  c/SO/Reapogit/UTN-FRA_SO_VAGRANT/VagrantFiles/1_equipo
+   59  cd  c/SO/Reapogit/UTN-FRA_SO_VAGRANT/VagrantFiles/1_equipo
+   60  cd c/SO/Repogit/UTN-FRA_SO_VAGRANT/VagrantFiles/1_equipo
+   61  vagrant up
+   62  vagrant ssh
+   63  vagrant halt
+   64  vagrant up
+   65  vagrant ssh
+   66  vagrant halt
+   67  cd..
+   68  cd ..
+   69  cd ..
+   70  cd ..
+   71  ls -l
+   72  git clone https://github.com/Arianagambi580/TP_01_Aq_y_SO-Ariana-Gambi.git
+   73  cd TP_01_Aq_y_SO-Ariana-Gambi
+   74  clear
+   75  whoami
+   76  echo "usuario=$(whoami)" > usuario.txt
+   77  ls -l
+   78  cat usuario.txt
+   79  git add .
+   80  git commit -m "usuario.txt agradado"
+   81  grep /etc/os/release > datos.txt
+   82  ls -l
+   83   cd ..
+   84  cd ..
+   85  ls 
+   86  cd vm
+   87  ls
+   88  cd ubuntu
+   89  ls
+   90  cd ..
+   91  cd ..
+   92  ls 
+   93  cd Repogit
+   94  ls
+   95  cd TP-Final
+   96  ls
+   97  cat README.md
+   98  cd ..
+   99  ls
+  100  cd TP_01_Aq_y_SO-Ariana-Gambi
+  101  LS
+  102  grep "TP"  /c/SO/Repogit/TP-Final
+  103  grep "TP"  /c/SO/Repogit/TP-Final/README.md >> datos.txt
+  104  cat datos.txt
+  105  git add .
+  106  git commit -m "Información"
+  107  cat README.md
+  108  echo "alumno:Ariana Gambi" > README.md
+  109  echo "División:114" >> README.md
+  110  echo "Turno:Mañana" >> README.md
+  111  cat README.md
+  112  git add .
+  113  git commit -m "Modificación README.md"
+  114  history
+  115  mkdir -p {material1,material2}/Uni{1..3}
+  116  tree
+  117  ls -l
+  118  ls -l
+  119  git add . 
+  120  git commit -m "Añandiendo script"
+  121  echo "$(history -a)" > historial.txt
+  122  cat historial.txt
+  123  echo "$(history)" > historial.txt
