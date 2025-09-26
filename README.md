@@ -1,1 +1,3 @@
-# TP_01_Aq_y_SO-Ariana-Gambi
+alumno:Ariana Gambi
+División:114
+Turno:Mañana
