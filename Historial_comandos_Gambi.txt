@@ -1,0 +1,183 @@
+whoami
+pwd
+ssh-keygen -t ed25519
+pwd
+ls -l
+ls -la
+cd .ssh
+ls -l
+cat id_ed25519.pub
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICFSpUKz/a8hGRViZA7xT4tDBW5M
+SRxPbn15oOXFfRXN vagrant@VMPruebas
+cat id_ed25519
+pwd
+cd $Home
+pwd
+man man
+man pwd
+echo hola
+echo home
+whoaim
+whoami
+echo $Home
+who
+w
+ls 
+ls -l
+ls -la
+cd repogit
+cd ..
+mkdir clase4
+ls -l
+mkdir clase 4
+mkdir clase4
+ls -l
+cd clase4
+ls -l
+echo linea1
+echo > archivo1.txt
+ls -l
+cat
+pwd
+ls -l
+mkdir repogit
+cd Repogit
+cd repogit
+ls -l
+gti clone git@github.com:Arianagambi580/TP_01_Aq_y_SO-Ariana-Gambi.git
+git clonegit@github.com:Arianagambi580/TP_01_Aq_y_SO-Ariana-Gambi.git
+git clone git@github.com:Arianagambi580/TP_01_Aq_y_SO-Ariana-Gambi.git
+clear
+git clone git@github.com:Arianagambi580/TP_01_Aq_y_SO-Ariana-Gambi.git
+clear
+exit
+pwd
+ls 
+cd clase4
+ls
+mkdir practica
+cd practica
+touch practica1.txt
+ls
+cp practica1.txt practica2.txt
+ls
+rm -r practica1.txt
+ls
+pwd
+mv practica2.txt /home/vagrant/clase4/
+ls
+cd ..
+ls
+rm -r practica
+ls
+tree 
+sudo apt install tree
+tree
+clear
+mkdir -p clientes/ {
+ls
+mkdir -p clientes/{ facturas,pedidos}
+tree
+mkdir -p clientes/{facturas,pedidos}
+tree
+rm -r clientes
+ls
+mkdir -p clientes/{facturas,pedidos},proveedores{facturas,pedidos}
+tree
+rm -r clientes
+ls
+mkdir -p clientes/{facturas,pedidos},proveedores/{facturas,pedidos}
+tree
+rm -r clientes
+mkdir -p {clientes/{facturas,pedidos},proveedores/{facturas,pedidos}}
+tree
+mkdir -p ariana
+cd ariana
+mkdir -p {contactos/{facturas,pedidos},proveedores/{facturas,pedidos}}
+tree
+cd ..
+tree ariana
+mkdir ariana1
+cd ariana1
+ls
+mkdir -p {mama/{hijo1,hijo2,hijo3},papa/{ahijado,hijo1,hijo2,hijo3}}
+tree
+exit
+pwd
+ls -l
+cd repogit/TP_01_Aq_y_SO-Ariana-Gambi
+cd repogit
+ls -l
+pwd
+cd ..
+ls -l
+exit
+su
+sudo apt install git
+ls
+cd repogit
+ls
+git clone https://github.com/Arianagambi580/TP_01_Aq_y_SO-Ariana-Gambi.git
+ls
+grep HOME-URL/etc/os-release  
+cd repogit
+grep -i home_url /etc/os-release > datos_url.txt
+ls
+a   cadad
+l
+clclcclllll
+eee
+ccc eexit
+exit
+pwd
+cd repogit
+cd TP_01_Aq_y_SO-Ariana-Gambi/
+ls -l
+cat datos_url.txt 
+whoami
+echo "usuario=$(whoami)" > datos_usuario.txt 
+exit
+pwd
+cd Repogit
+cd repogit
+ls
+cd TP_01_Aq_y_SO-Ariana-Gambi/
+git add.
+git add .
+git commit -m "Agregamos datos_usuarios"
+git config --global user.email "arianae.gambi@gmail.com"
+git config --global user.name "Tu-
+Usuario"
+git config --global user.name "Tu-
+Usuario"
+git config --global user.name "Arianagambi580"
+git commit -m "Agregamos datos_usuarios"
+ls
+grep "model name" /proc/cpuinfo | head -n1 >>
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+git commit -m "Información de cpu"
+git add .
+git commit -m "Información de cpu"
+cat <<EOF >> README.md
+alumno:Ariana Gambi
+División:114
+Turno:Mañana
+EOF
+
+cat  README.md
+git add .
+git commit -m "Agregado el archivo README.md"
+ls
+cat script_dir.sh
+nano script_dir.sh
+clear
+git add .
+git commit -m "Añadiendoscript"
+history -a
+history
+cd ~
+ls -la
+n
+cp ~/.bash_history ./Historial_comandos_Apellido.txt
+ls
+cp 
