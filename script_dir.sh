@@ -1,3 +1,5 @@
 #!/bin/bash
 
-mkdir -p {material1,material2}/Uni{1..3}
+# comandos para crear directoctorios
+
+mkdir -p {material1,material2}/uni{1..3}
